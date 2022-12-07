@@ -1,0 +1,5 @@
+Broast,400.0,66
+Pizza,700.0,17
+Biryani,240.0,29
+Pepsi(45ml),60.0,93
+Tikka,350.0,51

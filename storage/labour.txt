@@ -1,0 +1,4 @@
+1,manaim,200.0
+2,hadiqa,200.0
+3,ayesha,1000.0
+4,sara,250.0
